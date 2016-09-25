@@ -19,5 +19,5 @@ Note: passing the `url` param will override the default.
 - Scott McGready [@ScottMcgready]
 
 ## License
-
+MIT License. See the `LICENSE` file for further licensing information. 
    [@ScottMcGready]: <https://twitter.com/scottmcgready>
